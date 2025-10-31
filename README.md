@@ -96,11 +96,13 @@ endmodule
 ## Simulation Results
 
 ### Nclaunch Work Library Window
+<img width="1920" height="1200" alt="VLSI EXP-7" src="https://github.com/user-attachments/assets/33822a80-78cd-43f3-9076-cb7a27d59371" />
 
-![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
+
 
 ### Simulation Waveforms
-![Screenshot 2025-05-21 155512](https://github.com/user-attachments/assets/4d1457be-ef30-4b8b-a58d-aa8ac39c078c)
+<img width="1920" height="1200" alt="VLSI EXP-7 OUTPUT" src="https://github.com/user-attachments/assets/27d8cfc5-ca5e-4740-ab12-272afb6c2015" />
+
 
 
 
